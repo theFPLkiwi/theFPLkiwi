@@ -13,4 +13,4 @@ Files
 
 4. A match-up of 21/22 FPL IDs with FBref IDs.
 
-5. A csv file of initial points projections for all players, both Total and Adjusted (+2pts per no-show), as well as xMins data (as of 29/7/21).
+5. A csv file of initial points projections for all players, both Total and Adjusted (+2pts per no-show), as well as xMins data (as of 5/8/21).
