@@ -13,4 +13,4 @@ Files
 
 4. A match-up of 21/22 FPL IDs with FBref IDs.
 
-5. A csv file of points projections for all players for every GW. Will not be accurate past GW15 (When Chelsea go to the Club World Cup so rearrange their fixtures). Last update: 11 Aug 2021, pre-GW1.
+5. CSV files of points projections for all players for every GW. Will not be accurate past GW15 (When Chelsea go to the Club World Cup so rearrange their fixtures). Last update: 12 Aug 2021, pre-GW1.
