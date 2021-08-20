@@ -1,7 +1,7 @@
 # theFPLkiwi
 Kiwi shared stats/resources
 
-Find me on Twitter as @theFPLkiwi
+Find me on Twitter as @theFPLkiwi or at ko-fi.com/thefplkiwi
 
 Files
 
