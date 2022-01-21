@@ -1,0 +1,7 @@
+Please note that these 2nd chance projections are just roughly transformed from the normal FanTeam numbers.
+
+This is a hacky attempt to account for the safety net.
+
+These are not guaranteed the same level of accuracy as the other model outputs and do not follow the same level of rigour in how the numbers are reached.
+
+I do however use these numbers myself :)
