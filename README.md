@@ -13,4 +13,4 @@ Files
 
 4. A smaller file than (1) containing only IDs.
 
-5. CSV files of points projections for all players for every GW. Will not be accurate past GW15 (When Chelsea go to the Club World Cup so rearrange their fixtures). Last update: 20 Aug 2021, pre-GW2.
+5. CSV files of points projections for all players from every GW, for every future GW from that point, in 3 different games (FPL, FanTeam, FanTeam 2nd chance).
