@@ -1,6 +1,6 @@
 Name,FFS 17,FFS 18,FFS 19,FFS 20,FFS 21,FFS 22,fbref,fbref ID,FPL ID,FPL name,FPL pos,Team,FPL price,FT ID,FanTeam name,FT pos,FT price,DOB
 Ramsdale,,,Ramsdale,Ramsdale,Ramsdale,Ramsdale,Aaron Ramsdale,466fb2c5,15,Ramsdale,GK,Arsenal,5,140080,Ramsdale,GK,5,35929
-Leno,,Leno,Leno,Leno,Leno,Leno,Bernd Leno,2628fd2b,2,Leno,GK,Arsenal,4.5,88472,Leno,GK,4.5,33667
+Leno,,Leno,Leno,Leno,Leno,Leno,Bernd Leno,2628fd2b,2,Leno,GK,Fulham,4.5,88472,Leno,GK,4.5,33667
 Turner,,,,,,Turner,Matt Turner,4a51ba65,24,Turner,GK,Arsenal,4,1677492,Turner,GK,4.5,34509
 Runarsson,,,,Rúnarsson,,Rúnarsson,Rúnar Alex Rúnarsson,8fa8f8d2,,Rúnarsson,GK,Arsenal,3,,,,,34748
 Tierney,,,Tierney,Tierney,Tierney,Tierney,Kieran Tierney,fce2302c,8,Tierney,DEF,Arsenal,5,139989,Tierney,DEF,5.5,35586
@@ -109,7 +109,7 @@ Sorensen,,,,,Bech Sørensen,Bech Sørensen,Mads Bech Sørensen,30db8574,91,Bech,DEF
 Pinnock,,,,,Pinnock,Pinnock,Ethan Pinnock,e541326e,92,Pinnock,DEF,Brentford,4.5,192197,Pinnock,DEF,4.5,34118
 Goode,,,,,Goode,Goode,Charlie Goode,7aee4dd3,96,Goode,DEF,Brentford,4,192209,Goode,DEF,4,34914
 Thompson,,,,,Thompson (Dominic),Thompson (Dominic),Dominic Thompson,235a62f8,98,Thompson,DEF,Brentford,4,1783650,Thompson,DEF,4,36733
-Mee,Mee,Mee,Mee,Mee,Mee,Mee,Ben Mee,8df7a2fb,526,Mee,DEF,Brentford,4.5,,,,,32772
+Mee,Mee,Mee,Mee,Mee,Mee,Mee,Ben Mee,8df7a2fb,526,Mee,DEF,Brentford,4.5,23379,Mee,DEF,4.5,32772
 Stevens,,,,,Stevens (Finley),Stevens (Finley),Finley Stevens,7e003182,,Stevens,DEF,Brentford,3,,,,,37721
 Norgaard,,,,,Norgaard,Norgaard,Christian Nørgaard,df0a4c90,79,Nørgaard,MID,Brentford,5.5,192201,Nørgaard,MID,5,34403
 Janelt,,,,,Janelt,Janelt,Vitaly Janelt,8449d35e,86,Janelt,MID,Brentford,5.5,192211,Janelt,MID,5,35925
@@ -274,7 +274,7 @@ Reed,,,,Reed,,Reed,Harrison Reed,803ae100,211,Reed,MID,Fulham,4.5,231160,Reed,MI
 Onomah,,,,Onomah,,Onomah,Josh Onomah,6612cd8c,216,Onomah,MID,Fulham,4.5,231164,Onomah,MID,4.5,35669
 A Pereira,,Pereira (Andreas),Pereira,,,Pereira,Andreas Pereira,6639e500,346,Andreas,MID,Fulham,4.5,242909,Pereira,MID,5,35065
 Francois,,,,Francois,,Francois,Tyrese Francois,6722d4f0,521,Francois,MID,Fulham,4.5,221693,Francois,MID,4.5,36723
-Mbabu,,,,,,Mbabu,Kevin Mbabu,493924a7,,Mbabu,DEF,Fulham,3,,,,,34808
+Mbabu,,,,,,Mbabu,Kevin Mbabu,493924a7,532,Mbabu,DEF,Fulham,4.5,1908559,Mbabu,DEF,4.5,34808
 Mitrovic,Mitrovic,Mitrovic,,Mitrovic,,Mitrovic,Aleksandar Mitrovi?,3925dbd6,210,Mitrovi?,FWD,Fulham,6.5,231170,Mitrovic,FWD,7,34593
 Muniz,,,,,,Muniz,Rodrigo Muniz,a755db8c,218,Muniz,FWD,Fulham,5.5,252855,Muniz,FWD,5.5,37015
 Stansfield,,,,,,Stansfield,Jay Stansfield,b2626673,219,Stansfield,FWD,Fulham,4.5,262883,Stansfield,FWD,5,37584
@@ -336,7 +336,6 @@ Dewsbury-Hall,,,,,Dewsbury-Hall,Dewsbury-Hall,Kiernan Dewsbury Hall,5c74c0f5,266
 N Mendy,,Mendy (Nampalys),Mendy (Nampalys),Mendy (Nampalys),Mendy (Nampalys),Mendy (Nampalys),Nampalys Mendy,1598599e,252,Mendy,MID,Leicester City,4.5,94552,Mendy,MID,4.5,33778
 Choudhury,Choudhury,Choudhury,Choudhury,Choudhury,Choudhury,Choudhury,Hamza Choudhury,7d2d3329,263,Choudhury,MID,Leicester City,4.5,68289,Choudhury,MID,4.5,35704
 Soumare,,,,,Soumaré,Soumaré,Boubakary Soumaré,ae59b359,269,Soumaré,MID,Leicester City,4.5,226789,Soumare,MID,4.5,36218
-Lookman,Lookman,Lookman,,Lookman,Lookman,Lookman,Ademola Lookman,7c104bb7,,Lookman,MID,Leicester City,3,,,,,35723
 Praet,,,Praet,Praet,,Praet,Dennis Praet,86695068,,Praet,MID,Leicester City,3,140007,Praet,MID,5,34468
 Vardy,Vardy,Vardy,Vardy,Vardy,Vardy,Vardy,Jamie Vardy,45963054,255,Vardy,FWD,Leicester City,9.5,23097,Vardy,FWD,9,31788
 Iheanacho,Iheanacho,Iheanacho,Iheanacho,Iheanacho,Iheanacho,Iheanacho,Kelechi Iheanacho,c92e1a31,262,Iheanacho,FWD,Leicester City,6.5,23170,Iheanacho,FWD,8,35341
@@ -411,7 +410,7 @@ Malacia,,,,,,Malacia,Tyrell Malacia,6b6c793c,504,Malacia,DEF,Man United,4.5,1777
 P Jones,Jones (Phil),Jones (Phil),Jones (Phil),,Jones (Phil),Jones (Phil),Phil Jones,def899bd,328,Jones,DEF,Man United,4,274845,Jones,DEF,4.5,33655
 Bailly,Bailly,Bailly,Bailly,Bailly,Bailly,Bailly,Eric Bailly,a1232f4e,339,Bailly,DEF,Man United,4,23171,Bailly,DEF,4.5,34436
 B Williams,,,Williams (Brandon),Williams (Brandon),Williams (Brandon),Williams (Brandon),Brandon Williams,5e74d6c8,343,B.Williams,DEF,Man United,4,150363,Williams,DEF,4.5,36772
-L Martinez,,,,,,Martínez,Lisandro Martínez,bac46a10,,Martínez,DEF,Man United,3,1818085,Martinez,DEF,5,35813
+L Martinez,,,,,,Martínez,Lisandro Martínez,bac46a10,533,Martínez,DEF,Man United,4.5,1818085,Martinez,DEF,5,35813
 Tuanzebe,Tuanzebe,,Tuanzebe,Tuanzebe,Tuanzebe,Tuanzebe,Axel Tuanzebe,2baec6ce,,Tuanzebe,DEF,Man United,3,1677503,Tuanzebe,DEF,4.5,35748
 Fernandes,,,Bruno Fernandes,Bruno Fernandes,Bruno Fernandes,Bruno Fernandes,Bruno Fernandes,507c7bdf,333,Fernandes,MID,Man United,10,160701,Fernandes,MID,9.5,34585
 Sancho,,,,,Sancho,Sancho,Jadon Sancho,dbf053da,340,Sancho,MID,Man United,7.5,228177,Sancho,MID,7.5,36610
@@ -471,7 +470,7 @@ Mbe Soh,,,,,,Mbe Soh,Loïc Mbe Soh,8f534f8e,393,Mbe Soh,DEF,Nott'm Forest,4.5,230
 Biancone,,,,,,Biancone,Giulian Biancone,de40e38c,399,Biancone,DEF,Nott'm Forest,4.5,1761567,Biancone,DEF,4,36616
 Niakhate,,,,,,Niakhaté,Moussa Niakhate,00242715,507,Niakhaté,DEF,Nott'm Forest,4.5,1783668,Niakhate,DEF,4.5,35132
 O Richards,,,,,,Richards,Omar Richards,f9b1b7bf,511,Richards,DEF,Nott'm Forest,4.5,1803644,Richards,DEF,4.5,35841
-Toffolo,,,,,,Toffolo,Harry Toffolo,a105d46a,523,Toffolo,DEF,Nott'm Forest,4.5,,,,,34930
+Toffolo,,,,,,Toffolo,Harry Toffolo,a105d46a,523,Toffolo,DEF,Nott'm Forest,4.5,1855091,Toffolo,DEF,4.5,34930
 N Williams,,,Williams (Neco),Williams (Neco),Williams (Neco),Williams (Neco),Neco Williams,dd323728,295,N.Williams,DEF,Nott'm Forest,4,156926,Williams,DEF,5,36994
 Drager,,,,,,Dräger,Mohamed Dräger,8954fddc,386,Dräger,DEF,Nott'm Forest,4,258320,Dräger,DEF,4,35241
 Panzo,,,,,,Panzo,Jonathan Panzo,c795c408,389,Panzo,DEF,Nott'm Forest,4,310755,Panzo,DEF,4,36824
@@ -479,12 +478,12 @@ Lolley,,,,,,Lolley,Joe Lolley,c5f13182,384,Lolley,MID,Nott'm Forest,5,230989,Lol
 Yates,,,,,,Yates,Ryan Yates,c1fe2a48,387,Yates,MID,Nott'm Forest,5,230985,Yates,MID,5,35755
 X Silva,,Xande Silva,,,,Xande Silva,Xande Silva,15d561fa,390,Xande Silva,MID,Nott'm Forest,5,258321,Silva,MID,4.5,35505
 Mighten,,,,,,Mighten,Alexander Mighten,10ec4169,395,Mighten,MID,Nott'm Forest,5,230988,Mighten,MID,4.5,37357
-O'Brien,,,,,,O'Brien,Lewis O'Brien,089667a5,524,O'Brien,MID,Nott'm Forest,5,,,,,36082
+O'Brien,,,,,,O'Brien,Lewis O'Brien,089667a5,524,O'Brien,MID,Nott'm Forest,5,1855090,O'Brien,MID,4.5,36082
 Arter,Arter,Arter,,,,Arter,Harry Arter,2f4c5a52,378,Arter,MID,Nott'm Forest,4.5,230986,Arter,MID,4.5,32870
 Colback,,,,,,Colback,Jack Colback,963a9201,381,Colback,MID,Nott'm Forest,4.5,230983,Colback,MID,4.5,32805
 Cafu,,,,,,Cafú,Cafú,85322440,383,Cafú,MID,Nott'm Forest,4.5,240804,Cafú,MID,4.5,34026
 Ojeda,,,,,,Ojeda,Braian Ojeda,60953af0,396,Ojeda,MID,Nott'm Forest,4.5,258319,Ojeda,MID,4.5,36704
-Lingard,Lingard,Lingard,Lingard,Lingard,Lingard,Lingard,Jesse Lingard,810e3c74,527,Lingard,MID,Nott'm Forest,6,,,,,33953
+Lingard,Lingard,Lingard,Lingard,Lingard,Lingard,Lingard,Jesse Lingard,810e3c74,527,Lingard,MID,Nott'm Forest,6,23192,Lingard,MID,5.5,33953
 Brennan Johnson,,,,,,Johnson,Brennan Johnson,0cd31129,394,Johnson,FWD,Nott'm Forest,6,230991,Johnson,MID,6,37034
 Awoniyi,,,,,,Awoniyi,Taiwo Awoniyi,e5478b87,397,Awoniyi,FWD,Nott'm Forest,6,1727417,Awoniyi,FWD,6,35654
 Surridge,,Surridge,Surridge,,,Surridge,Sam Surridge,b017b770,391,Surridge,FWD,Nott'm Forest,5,230754,Surridge,FWD,5,36004
@@ -518,7 +517,7 @@ Smallbone,,,Smallbone,Smallbone,Smallbone,Smallbone,William Smallbone,5e105217,4
 I Diallo,,,,Diallo,Diallo,Diallo,Ibrahima Diallo,11ff3d56,416,Diallo,MID,Southampton,4.5,187324,Diallo,MID,4.5,36227
 C Adams,,,Adams,Adams,Adams,Adams,Che Adams,f2bf1b0f,411,Adams,FWD,Southampton,6.5,132437,Adams,FWD,6.5,35259
 A Armstrong,,,,,A Armstrong,A Armstrong,Adam Armstrong,68c720b5,408,A.Armstrong,FWD,Southampton,5.5,242879,A.Armstrong,FWD,6,35471
-Mara,,,,,,Mara,Sekou Mara,3544641e,528,Mara,FWD,Southampton,5.5,,,,,37467
+Mara,,,,,,Mara,Sekou Mara,3544641e,528,Mara,FWD,Southampton,5.5,1863450,Mara,FWD,5.5,37467
 Lloris,Lloris,Lloris,Lloris,Lloris,Lloris,Lloris,Hugo Lloris,8f62b6ee,425,Lloris,GK,Tottenham,5.5,23259,Lloris,GK,5.5,31772
 Forster,Forster,Forster,,Forster,Forster,Forster,Fraser Forster,c3e39f12,426,Forster,GK,Tottenham,4,178022,Forster,GK,5,32219
 Austin,,,,,,Austin,Brandon Austin,5e253986,451,Austin,GK,Tottenham,4,1677507,Austin,GK,5,36168
@@ -608,72 +607,12 @@ Jordao,,,Bruno Jordao,,,Bruno Jordao,Bruno Jordão,41ff002d,,Jordão,MID,Wolverham
 Jimenez,,Raúl Jiménez,Raúl Jiménez,Raúl Jiménez,Raúl Jiménez,Raúl Jiménez,Raúl Jiménez,b561db50,476,Jiménez,FWD,Wolverhampton,7,88528,Jiménez,FWD,7,33363
 F Silva,,,,Fabio Silva,Fabio Silva,Fabio Silva,Fábio Silva,e7aa9d7c,488,Fabio Silva,FWD,Wolverhampton,5.5,182752,Silva,FWD,6,37456
 Cutrone,,,Cutrone,Cutrone,,Cutrone,Patrick Cutrone,a4fe8cda,,Cutrone,FWD,Wolverhampton,3,,,,,35798
-Scamacca,,,,,,Scamacca,Gianluca Scamacca,8790f988,529,Scamacca,FWD,West Ham,7,,,,,36161
-Vinagre,,Rúben Vinagre,Rúben Vinagre,Rúben Vinagre,,Rúben Vinagre,Rúben Vinagre,b937e490,,Vinagre,DEF,Everton,3,,,,,36259
-Solomon,,,,,,Solomon,Manor Solomon,886f9aac,,Solomon,MID,Fulham,3,,,,,36365
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
+Scamacca,,,,,,Scamacca,Gianluca Scamacca,8790f988,529,Scamacca,FWD,West Ham,7,1892666,Scamacca,FWD,6.5,36161
+Vinagre,,Rúben Vinagre,Rúben Vinagre,Rúben Vinagre,,Rúben Vinagre,Rúben Vinagre,b937e490,531,Vinagre,DEF,Everton,4.5,1908561,Vinagre,DEF,4.5,36259
+Solomon,,,,,,Solomon,Manor Solomon,886f9aac,,Solomon,MID,Fulham,3,1897014,Solomon,MID,5,36365
+C Richards,,,,,,Richards (Chris),Chris Richards,0a3d6d2b,530,Richards,DEF,Crystal Palace,4.5,1908560,Richards,DEF,4.5,36613
+McNeil,McNeil,McNeil,McNeil,McNeil,McNeil,McNeil,Dwight McNeil,fc15fb84,534,McNeil,MID,Everton,5.5,96761,McNeil,MID,5.5,36486
+Mangala,,,,,,Mangala,Orel Mangala,a572e291,536,Mangala,MID,Nott'm Forest,5,,,,,35872
+Gueye,Gueye,Gueye,,,,Gueye,Idrissa Gana Gueye,72c812f3,,Gueye,MID,Everton,3,,,,,32777
+Iversen,,,,,,,Daniel Iversen,10d221cd,,Iversen,GK,Leicester City,3,,,,,35630
+Tavernier,,,,,,,Marcus Tavernier,5c0da4a4,535,Tavernier,MID,Bournemouth,5,,,,,36241
