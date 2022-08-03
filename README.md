@@ -1,16 +1,16 @@
 # theFPLkiwi
 Kiwi shared stats/resources
 
-Find me on Twitter as @theFPLkiwi or at ko-fi.com/thefplkiwi
+Find me on Twitter as @theFPLkiwi, reddit https://www.reddit.com/u/theFPLkiwi, kofi ko-fi.com/thefplkiwi, or Discord in the FPL Analytics Community & FPL Review servers.
 
 Files
 
-1. A dictionary to translate between FPL / fbref / FFscout / Kiwi moniker for 17/18-21/22 including IDs from FPL, FanTeam, & FBref.
+1. Old_Seasons : Contains past data for hindsight optimisation as well as previous seasons' weekly projections.
 
-2. Data for hindsight-based optimisation of FPL season 20/21. This includes all players with their FPL ID, position, team (both if they played for two as well as the date of their transfer in-game), score in each GW (blank if they did not play), price on every day of the season (with an hour of 12 if they were added to the game after the GW deadline that day).
+2. FPL_projections : Weekly projections for the current FPL (Fantasy Premier League) season. PLEASE NOTE that not all players are represented and some players are given ID 0. The missing players are deemed to have left the league so all minutes and points are 0, although in reality they still have an FPL ID and may be selectable in-game. The players with ID 0 are players who might get some minutes but are not in the actual game yet for whatever reason, whether they are back from loan, youth players, or recent transfers. When using this data in a solver designed to work with fplreview data, it may be necessary to remove these 0 IDs and insert the missing IDs with all 0s.
 
-3. A supplementary file for the hindsight data, containing the dates of each GW.
+3. FanTeam projections : Weekly projections for the current FanTeam season. FanTeam uses slightly different scoring and pricing to FPL so merits a separate model.
 
-4. A smaller file than (1) containing only IDs.
+4. 2022_IDs : A small file containing only fbref, FPL, and FanTeam IDs matched to aid in modelling
 
-5. CSV files of points projections for all players from every GW, for every future GW from that point, in 3 different games (FPL, FanTeam, FanTeam 2nd chance).
+5. ID_Dictionary : A larger dictionary file that contains player IDs & names from FFScout, fbref, FPL, FanTeam as well as teams, prices & positions from the latter two and DoB for any age-related stats/modelling.

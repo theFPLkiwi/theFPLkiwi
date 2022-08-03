@@ -62,7 +62,7 @@ El Ghazi,,,El Ghazi,El Ghazi,El Ghazi,El Ghazi,Anwar El Ghazi,ffa90327,51,El Gha
 Kamara,,,,,,Kamara,Boubacar Kamara,cc77354e,53,Kamara,MID,Aston Villa,5,1697059,Kamara,MID,5,36487
 Sanson,,,,Sanson,Sanson,Sanson,Morgan Sanson,6e7f1353,36,Sanson,MID,Aston Villa,4.5,202398,Sanson,MID,4.5,34564
 Nakamba,,,Nakamba,Nakamba,Nakamba,Nakamba,Marvelous Nakamba,de5b5570,41,Nakamba,MID,Aston Villa,4.5,138600,Nakamba,MID,4.5,34353
-Chukwuemeka,,,,Chukwuemeka,Chukwuemeka (Carney),Chukwuemeka (Carney),Carney Chukwuemeka,18c70acb,48,Chukwuemeka,MID,Aston Villa,4.5,221680,Chukwuemeka,MID,4.5,37914
+Chukwuemeka,,,,Chukwuemeka,Chukwuemeka (Carney),Chukwuemeka (Carney),Carney Chukwuemeka,18c70acb,48,Chukwuemeka,MID,Chelsea,4.5,221680,Chukwuemeka,MID,4.5,37914
 Iroegbunam,,,,,Iroegbunam,Iroegbunam,Tim Iroegbunam,84c5ceea,49,Iroegbunam,MID,Aston Villa,4.5,495578,Iroegbunam,MID,4.5,37480
 Philogene-Bidace,,,,Philogene-Bidace,Philogene-Bidace,Philogene-Bidace,Jaden Philogene Bidace,19f4d211,55,Philogene-Bidace,MID,Aston Villa,4.5,1783648,Phiogene-Bidace,MID,4.5,37394
 Chrisene,,,,,,Chrisene,Benjamin Chrisene,b17008fc,,Chrisene,MID,Aston Villa,3,,,,,37998
@@ -177,7 +177,7 @@ T Chalobah,,,,,Chalobah (Trevoh),Chalobah (Trevoh),Trevoh Chalobah,5515376c,141,
 M Sarr,,,,,Sarr (Malang),Sarr (Malang),Malang Sarr,4315f30d,143,Sarr,DEF,Chelsea,5,262617,Sarr,DEF,5.5,36183
 Ampadu,Ampadu,,,Ampadu,,Ampadu,Ethan Ampadu,10b9fa99,151,Ampadu,DEF,Chelsea,4.5,1783654,Ampadu,DEF,5,36783
 Kenedy,Kenedy,Kenedy,,,Kenedy,Kenedy,Kenedy,5eebbfdf,138,Kenedy,DEF,Chelsea,4,280703,Kenedy,DEF,5,35103
-Emerson P,Emerson,Emerson,Emerson,Emerson,,Emerson Palmieri,Emerson Palmieri,e0bc6fdc,,Emerson,DEF,Chelsea,3,257275,Emerson,DEF,5.5,34549
+Emerson P,Emerson,Emerson,Emerson,Emerson,,Emerson Palmieri,Emerson Palmieri,e0bc6fdc,,Emerson,DEF,Chelsea,3,,,,,34549
 Kounde,,,,,,Koundé,Jules Koundé,4d1666ff,,Kounde,DEF,Chelsea,3,,,,,36111
 Sterling,Sterling (Raheem),Sterling (Raheem),Sterling (Raheem),Sterling,Sterling (Raheem),Sterling (Raheem),Raheem Sterling,b400bde0,304,Sterling,MID,Chelsea,10,23153,Sterling,MID,9,34676
 Mount,,,Mount,Mount,Mount,Mount,Mason Mount,9674002f,142,Mount,MID,Chelsea,8,139802,Mount,MID,8.5,36170
@@ -378,7 +378,7 @@ Cancelo,,,João Cancelo,João Cancelo,João Cancelo,João Cancelo,João Cancelo,bd635
 Laporte,Laporte,Laporte,Laporte,Laporte,Laporte,Laporte,Aymeric Laporte,119b9a8e,309,Laporte,DEF,Man City,6,77347,Laporte,DEF,6,34481
 Dias,,,,Rúben Dias,Rúben Dias,Rúben Dias,Rúben Dias,31c69ef1,312,Dias,DEF,Man City,6,186737,Dias,DEF,6.5,35564
 Stones,Stones,Stones,Stones,Stones,Stones,Stones,John Stones,5eecec3d,302,Stones,DEF,Man City,5.5,23044,Stones,DEF,5.5,34482
-Cucurella,,,,,Cucurella,Cucurella,Marc Cucurella,1daec722,112,Cucurella,DEF,Brighton,5,257179,Cucurella,DEF,5,35998
+Cucurella,,,,,Cucurella,Cucurella,Marc Cucurella,1daec722,112,Cucurella,DEF,Chelsea,5,257179,Cucurella,DEF,5,35998
 Walker,Walker,Walker,Walker,Walker (Kyle),Walker (Kyle),Walker (Kyle),Kyle Walker,86dd77d1,299,Walker,DEF,Man City,5,23260,Walker,DEF,6,33021
 Ake,Aké,Aké,Aké,Aké,Aké,Aké,Nathan Aké,eaeca114,308,Aké,DEF,Man City,5,23346,Aké,DEF,5,34748
 Mbete,,,,,,Mbete,Luke Mbete-Tatu,387e1d35,320,Mbete,DEF,Man City,4,1783659,Mbete-Tabu,DEF,5,36787
@@ -526,7 +526,7 @@ Doherty,,Doherty,Doherty,Doherty,Doherty,Doherty,Matt Doherty,d557d734,429,Doher
 Dier,Dier,Dier,Dier,Dier,Dier,Dier,Eric Dier,ac861941,430,Dier,DEF,Tottenham,5,23479,Dier,DEF,5,34349
 Ben T Davies,Davies (Ben),Davies (Ben),Davies (Ben),Davies (Ben),Ben Davies,Ben Davies,Ben Davies,44781702,432,Davies,DEF,Tottenham,5,23490,Davies,DEF,5,34083
 Romero,,,,,Romero (Cristian),Romero (Cristian),Cristian Romero,a3d94a58,443,Romero,DEF,Tottenham,5,241952,Romero,DEF,5,35912
-Emerson R,,,,,Emerson Royal,Emerson Royal,Emerson,df8b52a5,445,Emerson Royal,DEF,Tottenham,5,,,,,36174
+Emerson R,,,,,Emerson Royal,Emerson Royal,Emerson,df8b52a5,445,Emerson Royal,DEF,Tottenham,5,257275,Emerson,DEF,5.5,36174
 Lenglet,,,,,,Lenglet,Clément Lenglet,4f28a6ff,513,Lenglet,DEF,Tottenham,5,1803647,Lenglet,DEF,5,34867
 D Sanchez,DSanchez,DSanchez,DSanchez,DSanchez,D Sanchez,D Sanchez,Davinson Sánchez,da7b447d,435,Sánchez,DEF,Tottenham,4.5,56987,Sánchez,DEF,5,35228
 Sessegnon,,Ryan Sessegnon,Ryan Sessegnon,,Ryan Sessegnon,Ryan Sessegnon,Ryan Sessegnon,6aa3e78b,436,R.Sessegnon,DEF,Tottenham,4.5,225296,Sessegnon,DEF,5,36664
@@ -616,3 +616,4 @@ Mangala,,,,,,Mangala,Orel Mangala,a572e291,536,Mangala,MID,Nott'm Forest,5,,,,,3
 Gueye,Gueye,Gueye,,,,Gueye,Idrissa Gana Gueye,72c812f3,,Gueye,MID,Everton,3,,,,,32777
 Iversen,,,,,,,Daniel Iversen,10d221cd,,Iversen,GK,Leicester City,3,,,,,35630
 Tavernier,,,,,,,Marcus Tavernier,5c0da4a4,535,Tavernier,MID,Bournemouth,5,,,,,36241
+Damsgaard,,,,,,,Mikkel Damsgaard,215f3907,,Damsgaard,MID,Brentford,3,,,,,36710
