@@ -1,7 +1,7 @@
 # theFPLkiwi
 Kiwi shared stats/resources
 
-Find me on Twitter as @theFPLkiwi, reddit https://www.reddit.com/u/theFPLkiwi, kofi https://ko-fi.com/thefplkiwi, or Discord in the FPL Analytics Community & FPL Review servers.
+Find me on [Twitter](https://twitter.com/theFPLkiwi) as @theFPLkiwi, [reddit](https://www.reddit.com/u/theFPLkiwi), [ko-fi](https://ko-fi.com/thefplkiwi), or Discord in the FPL Analytics Community & FPL Review servers.
 
 Files
 
