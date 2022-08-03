@@ -7,7 +7,7 @@ Files
 
 1. Old_Seasons : Contains past data for hindsight optimisation as well as previous seasons' weekly projections.
 
-2. FPL_projections : Weekly projections for the current FPL (Fantasy Premier League) season. PLEASE NOTE that not all players are represented and some players are given ID 0. The missing players are deemed to have left the league so all minutes and points are 0, although in reality they still have an FPL ID and may be selectable in-game. The players with ID 0 are players who might get some minutes but are not in the actual game yet for whatever reason, whether they are back from loan, youth players, or recent transfers. When using this data in a solver designed to work with fplreview data, it may be necessary to remove these 0 IDs and insert the missing IDs with all 0s.
+2. FPL_projections : Weekly projections for the current FPL (Fantasy Premier League) season. PLEASE NOTE that not all players are represented and some players are given ID 0. The missing players are deemed to have left the league so all minutes and points are 0, although in reality they still have an FPL ID and may be selectable in-game. The players with ID 0 are players who might get some minutes but are not in the actual game yet for whatever reason, whether they are back from loan, youth players, or recent transfers. They are given a price of £3.0 due to not being in the game yet. When using this data in a solver designed to work with fplreview data, it may be necessary to remove these 0 IDs and insert the missing IDs with all 0s.
 
 3. FanTeam projections : Weekly projections for the current FanTeam season. FanTeam uses slightly different scoring and pricing to FPL so merits a separate model.
 
