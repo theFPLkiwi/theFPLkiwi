@@ -72,7 +72,7 @@ Ings,Ings,Ings,Ings,Ings,Ings,Ings,Danny Ings,07802f7f,30,Ings,FWD,Aston Villa,7
 K Davis,,,Davis,Davis (Keinan),Davis (Keinan),Davis (Keinan),Keinan Davis,9deaf2c8,52,Davis,FWD,Aston Villa,5.4,280850,Davis,FWD,5,35839
 Archer,,,,,Archer,Archer,Cameron Archer,05e8ca6d,54,Archer,FWD,Aston Villa,4.5,1783649,Archer,FWD,5,37093
 Travers,,Travers,Travers,,,Travers,Mark Travers,fe558029,72,Travers,GK,Bournemouth,4.5,230737,Travers,GK,4,36298
-Dennis,,,,,,Dennis,Will Dennis,d8edc4be,77,Dennis,GK,Bournemouth,4,235433,Dennis,GK,4,36717
+W Dennis,,,,,,Dennis,Will Dennis,d8edc4be,77,Dennis,GK,Bournemouth,4,235433,Dennis,GK,4,36717
 A Smith,A Smith,A Smith,A Smith,,,A Smith,Adam Smith,20b104bc,57,Smith,DEF,Bournemouth,4.5,230742,Smith,DEF,4,33357
 Fredericks,,Fredericks,Fredericks,Fredericks,Fredericks,Fredericks,Ryan Fredericks,c067631c,59,Fredericks,DEF,Bournemouth,4.5,88450,Fredericks,DEF,4,33887
 Stacey,,,Stacey,,,Stacey,Jack Stacey,558807c0,65,Stacey,DEF,Bournemouth,4.5,230743,Stacey,DEF,4,35161
@@ -348,7 +348,7 @@ Robertson,Robertson,Robertson,Robertson,Robertson,Robertson,Robertson,Andrew Rob
 van Dijk,van Dijk,van Dijk,van Dijk,van Dijk,van Dijk,van Dijk,Virgil van Dijk,e06683ca,280,Van Dijk,DEF,Liverpool,6.5,23238,Dijk,DEF,6.5,33427
 Matip,Matip,Matip,Matip,Matip,Matip,Matip,Joël Matip,b217ef29,276,Matip,DEF,Liverpool,6,23135,Matip,DEF,6,33458
 Konate,,,,,Konaté,Konaté,Ibrahima Konaté,5ed9b537,290,Konaté,DEF,Liverpool,5,225319,Konate,DEF,6,36305
-Gomez,Gomez,Gomez,Gomez,Gomez,Gomez,Gomez,Joe Gomez,7a11550b,286,Gomez,DEF,Liverpool,4.5,23120,Gomez,DEF,5.5,35573
+J Gomez,Gomez,Gomez,Gomez,Gomez,Gomez,Gomez,Joe Gomez,7a11550b,286,Gomez,DEF,Liverpool,4.5,23120,Gomez,DEF,5.5,35573
 Tsimikas,,,,Tsimikas,Tsimikas,Tsimikas,Kostas Tsimikas,f315ca93,292,Tsimikas,DEF,Liverpool,4.5,178132,Tsimikas,DEF,6,35197
 Ramsay,,,,,,Ramsay,Calvin Ramsay,d720e834,298,Ramsay,DEF,Liverpool,4,1695165,Ramsay,DEF,5.5,37833
 R Williams,,,,Rhys Williams,,Rhys Williams,Rhys Williams,012c975a,498,R.Williams,DEF,Liverpool,4,192955,Williams,DEF,5,36925
@@ -616,7 +616,7 @@ Mangala,,,,,,Mangala,Orel Mangala,a572e291,536,Mangala,MID,Nott'm Forest,5,19549
 Gueye,Gueye,Gueye,,,,Gueye,Idrissa Gana Gueye,72c812f3,,Gueye,MID,Everton,3,,,,,32777
 Iversen,,,,,,Iversen,Daniel Iversen,10d221cd,548,Iversen,GK,Leicester City,4,1954996,Iverson,GK,4.5,35630
 Tavernier,,,,,,Tavernier,Marcus Tavernier,5c0da4a4,535,Tavernier,MID,Bournemouth,5,1954998,Tavernier,MID,5,36241
-Damsgaard,,,,,,Damsgaard,Mikkel Damsgaard,215f3907,,Damsgaard,MID,Brentford,3,2064482,Damsgaard,MID,5.5,36710
+Damsgaard,,,,,,Damsgaard,Mikkel Damsgaard,215f3907,580,Damsgaard,MID,Brentford,5.5,2064482,Damsgaard,MID,5.5,36710
 Clarke,,,,,,Clarke,Matthew Clarke,8ea2227a,543,Clarke,DEF,Brighton,4,,,,,35330
 Harris,,,,,,Harris,Luke Harris,42dd1b56,546,Harris,MID,Fulham,4.5,,,,,37736
 Iqbal,,,,,,Iqbal,Zidane Iqbal,6fa3c28e,551,Iqbal,MID,Man United,4.5,,,,,37738
@@ -637,3 +637,8 @@ R Lewis,,,,,,Lewis (Rico),Rico Lewis,b57e066e,573,Lewis,DEF,Man City,4,,,,,38312
 Senesi,,,,,,Senesi,Marcos Senesi,35141f4c,576,Senesi,DEF,Bournemouth,4.5,2018115,Senesi,DEF,4,35560
 Guedes,,,,,,Guedes,Gonçalo Guedes,e6bc67d7,579,Guedes,MID,Wolverhampton,6,2050334,Guedes,MID,6,35398
 Robles,,,,,,Robles,Joel Robles,cda0b317,578,Robles,GK,Leeds United,4,2051720,Robles,GK,4,33041
+E Dennis,,,,,Dennis,Dennis,Emmanuel Dennis,2c44a35d,,Dennis,FWD,Nott'm Forest,3,,,,,35749
+S Gomez,,,,,,Gómez,Sergio Gómez,01e5f06e,,Gómez,DEF,Man City,3,2079175,Gomez,DEF,5.5,36773
+Freuler,,,,,,Freuler,Remo Freuler,98d2c2c4,,Freuler,MID,Nott'm Forest,3,2079176,Freuler,MID,5,33709
+Rabiot,,,,,,Rabiot,Adrien Rabiot,8794e251,,Rabiot,MID,Man United,3,,,,,34792
+Smithies,,,,,,Smithies,Alex Smithies,bb91617c,,Smithies,GK,Leicester City,3,,,,,32937
