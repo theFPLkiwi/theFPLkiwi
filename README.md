@@ -14,3 +14,5 @@ Files
 4. 2022_IDs : A small file containing only fbref, FPL, and FanTeam IDs matched to aid in modelling
 
 5. ID_Dictionary : A larger dictionary file that contains player IDs & names from FFScout, fbref, FPL, FanTeam as well as teams, prices & positions from the latter two and DoB for any age-related stats/modelling.
+
+NOTE: This data can be used with Sertalp's solver via the instructions here: https://github.com/theFPLkiwi/webpage/blob/main/README.md
