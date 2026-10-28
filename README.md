@@ -3,6 +3,11 @@ Kiwi shared stats/resources
 
 Find me on [Twitter](https://twitter.com/theFPLkiwi) as @theFPLkiwi, [reddit](https://www.reddit.com/u/theFPLkiwi), [ko-fi](https://ko-fi.com/thefplkiwi), or Discord in the FPL Analytics Community & FPL Review servers.
 
+The model has been completely reworked in Python after a several-year gap. Weekly projections will be available but other resources will not be maintained.
+
+
+*OLD* - THESE BELONG TO A PREVIOUS VERSION OF THE MODEL
+
 Files
 
 1. Old_Seasons : Contains past data for hindsight optimisation as well as previous seasons' weekly projections.
